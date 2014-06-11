@@ -55,7 +55,7 @@ markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
-
+encoding: utf-8
 kramdown:
   auto_ids: true
   footnote_nr: 1
